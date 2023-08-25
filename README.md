@@ -7,6 +7,7 @@
 5.Create a new database naming "thesis_tmsticket".
 6.Import the provided SQL file. The file is known as "thesis_tmsticket.sql" located inside the extracted source code folder.
 7.Browse the Electronic Medical Records (EMR) System in a browser. i.e. http://localhost/ticketdesk-master
+
 #Sample User Credential
 
 Username: admin@gmail.com
